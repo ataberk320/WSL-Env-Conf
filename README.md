@@ -6,6 +6,6 @@ Common errors:
 - Incompatible Windows path (\ instead /"Linux format") <br>
 ---------------------------------------------------------------------
 # Usage
-Paste: ''if [ -f "~/fix_env.sh" ]; then
+Paste: ``if [ -f "~/fix_env.sh" ]; then
         source ~/fix_env.sh
-fi'' to the end of ~/.bashrc file for start tool on boot
+fi`` to the end of ~/.bashrc file for start tool on boot
