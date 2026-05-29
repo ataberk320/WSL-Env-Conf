@@ -7,5 +7,5 @@ Common errors:
 ---------------------------------------------------------------------
 # Usage
 Paste: ``if [ -f "~/fix_env.sh" ]; then
-        source ~/fix_env.sh
+        sudo bash ~/fix_env.sh
 fi`` to the end of ~/.bashrc file for start tool on boot
